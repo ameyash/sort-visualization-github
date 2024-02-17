@@ -1,0 +1,31 @@
+.mainBody{
+    display: grid;
+    justify-content: center;
+}
+
+.blockContiner{
+    margin: 40px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.block{
+    width: 10px;
+    height: 100px;
+    background-color: black;
+}
+
+.header{
+    display: grid;
+    justify-content: center;
+}
+
+.footer{
+    display: grid;
+    justify-content: center;
+}
+
+.resetButton{
+    margin-top: 20px;
+    width: 200px;
+}
